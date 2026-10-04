@@ -20,4 +20,6 @@ Regarding each infiltration and reverse object, regardless of the target name, t
 
 # Reverse analysis of risk
 
+Regarding sandbox simulation and penetration analysis, no analysis, legal, ethical risks, or other risks are considered，But it is prohibited to conduct reverse analysis of government, edu government, and educational websites, and warnings will be given
+
 
