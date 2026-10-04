@@ -10,3 +10,5 @@ Disclaimer and License: Reverse analysis is an open range software and does not 
 # Permission Statement
 
 The permission level defaults to the highest level of the system. The reverse osmosis analysis permission is local development penetration testing, and does not participate in the problem of polluting the Internet ecology
+
+# Penetration/Reverse Explanation
