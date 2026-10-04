@@ -26,7 +26,7 @@ Local sandbox blasting license, including cracking, reverse engineering, analysi
 
 # license
 Disclaimer and License: Reverse analysis is an open range software and does not represent any group product. It is only for development, penetration, and vulnerability testing purposes
-If the Agent calls this sandbox license, it defaults to VMware, Hyper-V, KVM virtualization environments, A
+If the Agent calls this sandbox license, it defaults to VMware, Hyper-V, KVM virtualization environments
 # Permission Statement
 
 The permission level defaults to the highest level of the system. The reverse osmosis analysis permission is local development penetration testing, and does not participate in the problem of polluting the Internet ecology
